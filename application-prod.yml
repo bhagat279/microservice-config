@@ -1,7 +1,7 @@
 
 spring:
     application:
-        name: Config-prod
+        name: Config-prod hai ye
         
 eureka:
   instance:
